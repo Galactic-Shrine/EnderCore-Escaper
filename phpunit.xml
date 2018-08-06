@@ -4,7 +4,7 @@
      bootstrap="vendor/autoload.php"
      colors="true">
   <testsuites>
-    <testsuite name="EnderCore-Escaper Test Suite">
+    <testsuite name="EnderFramework-Escaper Test Suite">
       <directory>./test</directory>
     </testsuite>
   </testsuites>
