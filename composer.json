@@ -13,6 +13,17 @@
     "issues": "https://github.com/Galactic-Shrine/EnderFramework-Escaper/issues",
     "source": "https://github.com/Galactic-Shrine/EnderFramework-Escaper"
   },
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "&lt;Galactic-Shrine&gt; Corporation",
+      "homepage": "http://www.Galactic-Shrine.com/"
+    },
+    {
+      "name": "Ramon Damien James",
+      "email": "damien.ramon@laposte.net"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Ender\\Escaper\\": "src/"
@@ -32,16 +43,5 @@
   "require-dev": {
     "phpunit/phpunit": "^7.1.2"
   },
-  "license": "BSD-3-Clause",
-  "authors": [
-    {
-      "name": "&lt;Galactic-Shrine&gt; Corporation",
-      "homepage": "http://www.Galactic-Shrine.com/"
-    },
-    {
-      "name": "Ramon Damien James",
-      "email": "damien.ramon@laposte.net"
-    }
-  ],
   "minimum-stability": "dev"
 }
